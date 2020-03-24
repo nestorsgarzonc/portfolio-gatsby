@@ -1,6 +1,8 @@
-import React from "react"
-import Header from '../components/header'
+import React from "react";
+import Header from '../components/header';
+import Repos from "../components/repos";
 
 export default () => <div>
-    <Header> </Header>
+    <Header />
+    <Repos />
 </div>
