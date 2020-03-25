@@ -1,0 +1,15 @@
+{
+    "slug": "online",
+    "title": "Cursos en linea",
+    "description": "Cursos finalizados en plataformas en internet",
+    "items": [
+        {
+            "name": "Flutter",
+            "url": "https://udemy.com"
+        },
+        {
+            "name": "Flutters",
+            "url": "https://udemy.com"
+        }
+    ]
+}

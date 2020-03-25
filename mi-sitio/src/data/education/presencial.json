@@ -1,0 +1,12 @@
+{
+    "slug": "presencial",
+    "title": "Formacion academica",
+    "description": "Formacion academica, grados de estudio e instrucciones a las que asisti",
+    "items": [
+        {
+            "name": "Universidad nacional de Colommbia",
+            "degree": "Ing. Sistemas y computacion",
+            "score": "4.0/5.0"
+        }
+    ]
+}
